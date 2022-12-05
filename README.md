@@ -1,14 +1,15 @@
 # Bored
 Are you bored? Try using my app now!
 
-### General Overview of the Features
+### General Overview and Features
 1. Generate completely random activity suggestions.
 2. Set a constraint to the type/category of activities you want to be suggested.
-3. Mark an acivity as favourite and access it later in the favourites tab.
-4. You can even swipe to delete the favourites.
+3. Mark an activity as favorite and access it later in the favorites tab.
+4. You can even swipe to delete the favorites.
 
 
 ### How does it work?
 
-The app sends api requests to [BoredAPI](www.boredapi.com).
-Depending on the url that I send, it gives me back an appropriate data which I then display on my app.
+The app sends api requests to [BoredAPI](www.boredapi.com).<br>
+Depending on the url that the user send, it gives back an appropriate data which the user then display on the app.<br>
+Please build with Java 11 or higher.
