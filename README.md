@@ -10,6 +10,6 @@ Are you bored? Try using my app now!
 
 ### How does it work?
 
-The app sends api requests to [BoredAPI](www.boredapi.com).
-Depending on the url that the user send, it gives back an appropriate data which the user then display on the app.
+The app sends api requests to [BoredAPI](www.boredapi.com).<br>
+Depending on the url that the user send, it gives back an appropriate data which the user then display on the app.<br>
 Please build with Java 11 or higher.
